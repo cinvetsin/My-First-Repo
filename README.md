@@ -4,4 +4,4 @@ NPM     : 2106632226
 
 Kelas   : F
 
-Hobi    : Mendengarkan musik
+Hobi    : Membaca buku
